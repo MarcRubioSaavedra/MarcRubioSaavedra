@@ -1,4 +1,4 @@
-### Hi dipaso! 👋, I'm Marc
+### Hi coder! 👋, I'm Marc
 
 <!--
 **MarcRubioSaavedra/MarcRubioSaavedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
