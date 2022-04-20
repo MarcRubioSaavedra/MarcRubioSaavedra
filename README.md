@@ -1,6 +1,6 @@
 ### Hi coder! 👋, I'm Marc
 
-**MarcRubioSaavedra/MarcRubioSaavedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MarcRubioSaavedra/MarcRubioSaavedra** is a ✨ _special_ repository for the worst coders on around the world. You can learn jokes about informatics or marginal hoods.
 
 Here are some ideas to get you started:
 
